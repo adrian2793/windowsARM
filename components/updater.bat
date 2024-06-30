@@ -1,6 +1,10 @@
 @echo off
 setlocal
 
+mkdir "C:\Program Files\temp\windowsARM"
+mkdir "C:\Program Files\windowsARM"
+mkdir "C:\Program Files\windowsARM\components"
+
 bitsadmin /transfer "windowsARM" http://raw.githubusercontent.com/adrian2793/files/main/update.txt "C:\Program Files\temp\windowsARM\update.txt"
 
 set /p programVersion =< "C:\Program Files\temp\windowsARM\update.txt"
