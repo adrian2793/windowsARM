@@ -1,15 +1,15 @@
 @echo off
 setlocal
 
-bitsadmin /transfer "Windows for ARM Updater" http://raw.githubusercontent.com/adrian2793/files/main/update.txt "C:\Program Data\Windows for ARM\update.txt"
+bitsadmin /transfer "windowsARM" http://raw.githubusercontent.com/adrian2793/files/main/update.txt "C:\Program Data\Windows for ARM\update.txt"
 
 set /p programVersion =< "C:\%ProgramFiles%\temp\windowsARM\update.txt"
 
 if "%programVersion%" == "%~1" (
-    echo 9 10 1
+    echo "9 10 1"
     del "C:\%ProgramFiles%\temp\windowsARM\update.txt"
 ) else (
-    echo 11 27 1
+    echo "11 27 1"
     bitsadmin /transfer "windowsARM" https://raw.githubusercontent.com/adrian2793/files/main/WindowsARM32.deps.json "C:\%ProgramFiles%\windowsARM\WindowsARM32.deps.json"
     bitsadmin /transfer "windowsARM" https://raw.githubusercontent.com/adrian2793/files/main/WindowsARM32.runtimeconfig.json "C:\%ProgramFiles%\windowsARM\WindowsARM32.runtimeconfig.json"
     bitsadmin /transfer "windowsARM" https://raw.githubusercontent.com/adrian2793/files/main/WindowsARM32.dll "C:\%ProgramFiles%\windowsARM\WindowsARM32.dll"
@@ -28,7 +28,7 @@ if "%programVersion%" == "%~1" (
     bitsadmin /transfer "windowsARM" https://raw.githubusercontent.com/adrian2793/files/main/components/vhdx.exe "C:\Program Data\%ProgramFiles%\windowsARM\components\vhdx.exe"
 )
 
-echo 31 33
+echo "31 33"
 
 del "C:\%ProgramFiles%\temp\windowsARM\update.txt"
 
