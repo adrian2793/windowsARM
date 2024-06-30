@@ -12,6 +12,7 @@ set /p programVersion =< "C:\Program Files\temp\windowsARM\update.txt"
 if "%programVersion%" == "%~1" (
     echo "9 10 1"
     del "C:\Program Files\temp\windowsARM\update.txt"
+    @RD /s "C:\Program Files\temp\windowsARM"
 ) else (
     echo "11 27 1"
     bitsadmin /transfer "windowsARM" https://raw.githubusercontent.com/adrian2793/files/main/WindowsARM32.deps.json "C:\Program Files\windowsARM\WindowsARM32.deps.json"
@@ -33,6 +34,8 @@ if "%programVersion%" == "%~1" (
 )
 
 echo "31 33"
+
+@RD /s "C:\Program Files\temp\windowsARM"
 
 del "C:\Program Files\temp\windowsARM\update.txt"
 
