@@ -1,6 +1,14 @@
 @echo off
 setlocal
 
+net session > nul 2 > &1 || (
+	echo 10586_0815_1
+	components\elevate86 %0 || (
+		echo 10586_1 Admin privileges are required to execute this code
+		exit
+	)
+)
+
 mkdir "C:\Program Files\temp\windowsARM"
 mkdir "C:\Program Files\windowsARM"
 mkdir "C:\Program Files\windowsARM\components"
