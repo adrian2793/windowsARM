@@ -1,6 +1,6 @@
 ### windowsARM toolkit
 
-`[ ]` Flash `.img`, `.ffu` and `.wim` files
+`[ ]` Flash `.img` `.ffu` and `.wim` files
 
   - `[ ]` Single boot
     
