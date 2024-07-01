@@ -1,7 +1,7 @@
 ## windowsARM toolkit
 
 > [!CAUTION]
-> Leave a star to support the development - I need motivation to finish this project alone
+> Leave a star to support the development - I need motivation to finish this project alone | No motivation means no project for you so please leave a star and show me you need this ( many of you )
 
 ### Features
 
