@@ -54,3 +54,4 @@
 Here is a overview of all the libraries I made to make this project work
 
 - `FileSystem` Read and write configuration files using a given syntax
+- `Kernel` Executes the main functions like for example unlocking the bootloader
