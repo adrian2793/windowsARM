@@ -30,11 +30,11 @@
 
   - `[ ]` arm64
     
-[ ] Includes a working Unigram mobile like Telegram client for Windows 10 Mobile
+`[ ]` Includes a working Unigram mobile like Telegram client for Windows 10 Mobile
 
-    [ ] arm32
+  - `[ ]` arm32
     
-[ ] Remote desktop app for Windows 10 Mobile
+`[ ]` Remote desktop app for Windows 10 Mobile
 
     [ ] arm32
     
