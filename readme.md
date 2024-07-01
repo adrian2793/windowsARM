@@ -4,13 +4,13 @@ windowsARM toolkit
 
 `[ ]` Flash .img, .ffu and .wim files
 
-    `[ ]` Single boot
+  - `[ ]` Single boot
     
-    `[ ]` Dual boot
+  - `[ ]` Dual boot
     
-    `[ ]` Kernel debug
+  - `[ ]` Kernel debug
     
-    `[ ]` Install Windows 10 Desktop on a SD card
+  - `[ ]` Install Windows 10 Desktop on a SD card
     
 `[ ]` Unlock the bootloader
 
