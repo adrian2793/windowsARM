@@ -1,5 +1,8 @@
 ## windowsARM toolkit
 
+> [!TIP]
+> Like this project to make me program the features
+
 ### Features
 
 `[ ]` Flash `.img` `.ffu` and `.wim` files
