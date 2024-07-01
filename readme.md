@@ -1,7 +1,7 @@
 ## windowsARM toolkit
 
 > [!TIP]
-> Like this project to make me program the features
+> Leave a star to support the development
 
 ### Features
 
