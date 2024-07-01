@@ -1,7 +1,7 @@
 ## windowsARM toolkit
 
-> [!TIP]
-> Leave a star to support the development
+> [!CAUTION]
+> Leave a star to support the development - I need motivation to finish this project alone
 
 ### Features
 
