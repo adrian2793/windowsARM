@@ -48,3 +48,9 @@
   - `[ ]` arm32
     
 `[ ]` Server side files
+
+### Libraries
+
+Here is a overview of all the libraries I made to make this project work
+
+- `FileSystem` Read and write configuration files using a given syntax
