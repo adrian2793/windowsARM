@@ -50,6 +50,7 @@ body:
     required: true
 - type: checkboxes
   attributes:
+    label: Check the following and then submit your issue 🔥
     options:
       - label: I have tried running the program in compatibility mode
         required: true
