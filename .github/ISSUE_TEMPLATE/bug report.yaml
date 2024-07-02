@@ -2,9 +2,6 @@ name: 👾 Bug Report
 description: Report a bug
 labels: bug
 body:
-- type: markdown
-  attributes:
-    value: "Thanks for taking the time to report a bug 👻"
 - type: textarea
   attributes:
     label: Reproduction steps
@@ -12,6 +9,14 @@ body:
     render: bash
   validations:
     required: true
+- type: checkboxes
+  attributes:
+    label: Operating System
+    description: Select the operating systems you have encountered this bug on
+    options:
+      - label: 💩 macOS
+      - label: ♥️ Windows
+      - label: 🤖 Linux
 - type: dropdown
   attributes:
     label: Phone model
