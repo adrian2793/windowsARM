@@ -9,6 +9,16 @@ body:
     render: bash
   validations:
     required: true
+- type: dropdown
+  attributes:
+    label: ExceptionType
+    options:
+      - Exception
+    default: 0
+- type: textarea
+  attributes
+    label: Possible ways to fix
+    placeholder: Think about what could have caused the bug
 - type: checkboxes
   attributes:
     label: Operating System
@@ -35,5 +45,14 @@ body:
       - Lumia 1020
       - Lumia 1020 AT & T
     default: 6
+  validations:
+    required: true
+- type: dropdown
+  attributes:
+    label: Which windowsARM version did you used?
+    options:
+      - 1.0.15
+      - 1.0.14
+    default: 0
   validations:
     required: true
