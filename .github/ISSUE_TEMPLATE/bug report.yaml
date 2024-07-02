@@ -16,9 +16,9 @@ body:
       - Exception
     default: 0
 - type: textarea
-  attributes
-    label: Possible ways to fix
-    placeholder: Think about what could have caused the bug
+  attributes:
+    label: What have you tried?
+    placeholder: Tell us what you have already tried to avoid the bug
 - type: checkboxes
   attributes:
     label: Operating System
