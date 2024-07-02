@@ -16,7 +16,19 @@ body:
   attributes:
     label: Phone model
     options:
-      - Lumia 950
-      - Lumia 950 XL
+      - Lumia 930
+      - Lumia 929 (Icon)
+      - Lumia 1520
+      - Lumia 1520 AT & T
+      - Lumia 830 Global
+      - Lumia 735 Global
+      - Lumia 650
+      - Lumia 640 XL LTE Global
+      - Lumia 640 XL LTE AT & T
+      - Lumia 520
+      - Lumia 920
+      - Lumia 1020
+      - Lumia 1020 AT & T
+    default: 6
   validations:
     required: true
