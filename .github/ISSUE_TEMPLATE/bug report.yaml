@@ -48,12 +48,9 @@ body:
     default: 6
   validations:
     required: true
-- type: dropdown
-  attributes:
-    label: Which windowsARM version did you used?
-    options:
-      - 1.0.15
-      - 1.0.14
-    default: 0
-  validations:
-    required: true
+- type: checkboxes
+  options:
+    - label: I have tried running the program in compatibility mode
+      required: true
+    - label: I checked the logs for possible reasons that caused the bug
+      required: true
