@@ -1,5 +1,5 @@
-- name: 👾 Bug Report
-- about: Report a bug
+name: 👾 Bug Report
+about: Report a bug
 labels: bug
 body:
 - type: markdown
