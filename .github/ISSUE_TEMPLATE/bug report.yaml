@@ -33,7 +33,7 @@ body:
 - type: textarea
   attributes:
     label: What have you tried?
-    placeholder: Tell us what you have already tried to avoid the bug
+    description: Tell us what you have already tried to avoid the bug
 - type: checkboxes
   attributes:
     label: Operating System
