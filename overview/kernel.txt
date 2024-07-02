@@ -1,1 +1,4 @@
-UnlockBootloader ( ffuFilePath, edeFilePath )
+ReadConfigurationFileLibrary( string _Content )
+ReadConfigurationFileExecutable( string _Content )
+ReadConfigurationFileFunction( string _Content )
+UnlockBootloader ( string _ffuFilePath, string _edeFilePath )
