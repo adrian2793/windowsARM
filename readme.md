@@ -3,6 +3,8 @@
 > [!TIP]
 > Leave a star and check out the wiki
 
+Progress `15 / 100`
+
 ### Features
 
 `[ ]` Flash `.img` `.ffu` and `.wim` files
