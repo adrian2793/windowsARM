@@ -11,8 +11,9 @@ body:
     required: true
 - type: dropdown
   attributes:
-    label: ExceptionType
+    label: Exception
     options:
+      - Unhandled Exception [ not shown ]
       - Exception
     default: 0
 - type: textarea
