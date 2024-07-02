@@ -13,9 +13,10 @@ body:
   attributes:
     label: Exception
     options:
-      - Unhandled Exception [ not shown ]
       - Exception
     default: 0
+  validations:
+    required: true
 - type: textarea
   attributes:
     label: What have you tried?
