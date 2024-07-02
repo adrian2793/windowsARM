@@ -1,4 +1,4 @@
 ReadConfigurationFileLibrary( string _Content )
 ReadConfigurationFileExecutable( string _Content )
 ReadConfigurationFileFunction( string _Content )
-UnlockBootloader ( string _ffuFilePath, string _edeFilePath )
+UnlockBootloader ( Process _process, string _ffuFilePath, string _edeFilePath )
