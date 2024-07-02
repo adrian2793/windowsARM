@@ -1,0 +1,22 @@
+name: 👾 Bug Report
+about: Report a bug
+labels: bug
+body:
+- type: markdown
+  attributes:
+  value: "Thanks for taking the time to report a bug 👻"
+- type: textarea
+  attributes:
+    label: Reproduction steps
+    description: "Tell us what you have done in order for the bug to appear"
+    render: bash
+  validations:
+    required: true
+- type: dropdown
+  attributes:
+    label: Phone model
+    options:
+      - Lumia 950
+      - Lumia 950 XL
+  validations:
+    required: true
