@@ -49,8 +49,9 @@ body:
   validations:
     required: true
 - type: checkboxes
-  options:
-    - label: I have tried running the program in compatibility mode
-      required: true
-    - label: I checked the logs for possible reasons that caused the bug
-      required: true
+  attributes:
+    options:
+      - label: I have tried running the program in compatibility mode
+        required: true
+      - label: I checked the logs for possible reasons that caused the bug
+        required: true
