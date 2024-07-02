@@ -14,6 +14,19 @@ body:
     label: Exception
     options:
       - Exception
+      - ArgumentNullException
+      - ArgumentOutOfRangeException
+      - DirectoryNotFoundException
+      - DriveNotFoundException
+      - FileNotFoundException
+      - InvalidOperationException
+      - NotImplementedException
+      - NotSupportedException
+      - OutOfMemoryException
+      - PlatformNotSupportedException
+      - TimeoutException
+      - UnauthorizedAccessException
+      - WarningException
     default: 0
   validations:
     required: true
