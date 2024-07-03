@@ -9,10 +9,10 @@ Progress `30 / 100`
 
 windowsARM contains the following files fully rewritten as C# class by myself 🖤
 
-| File | Corresponding C# class |
-| --- | --- |
-| [Installer.cmd](https://github.com/RedGreenBlue09/WFAv7_Installer/blob/master/Installer.cmd) | Lumia |
-| [DriverDownloader.cmd](https://github.com/RedGreenBlue09/WFAv7_Installer/blob/master/Driver%20Downloader.cmd) | LumiaDrivers |
+| File | Corresponding C# class | Author |
+| --- | --- | --- |
+| [Installer](https://github.com/RedGreenBlue09/WFAv7_Installer/blob/master/Installer.cmd) | Lumia | @RedGreenBlue09 |
+| [DriverDownloader](https://github.com/RedGreenBlue09/WFAv7_Installer/blob/master/Driver%20Downloader.cmd) | LumiaDrivers | @RedGreenBlue09 |
 
 ### Features
 
