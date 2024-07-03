@@ -12,13 +12,17 @@ windowsARM contains the following files fully rewritten as C# class by myself ðŸ
 
 Progress `30 / 100`
 
-### Features
+### Supported Features
+
+`[x]` Install Windows 10 Desktop on your phone
+
+### Upcoming Features
 
 `[ ]` Flash `.img` `.ffu` and `.wim` files
 
-  - `[ ]` Single boot
+  - `[x]` Single boot
     
-  - `[ ]` Dual boot
+  - `[x]` Dual boot
     
   - `[ ]` Kernel debug
     
