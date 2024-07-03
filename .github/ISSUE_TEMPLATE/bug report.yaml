@@ -9,6 +9,19 @@ body:
     render: bash
   validations:
     required: true
+- type: textarea
+  attributes:
+    label: What have you tried?
+    description: Tell us what you have already tried to avoid the bug
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Logs
+    placeholder: You can find the log file in the Roaming folder of the AppData directory
+    description: Insert the content of the log file into this textarea
+  validations:
+    required: true
 - type: dropdown
   attributes:
     label: Exception
@@ -27,27 +40,21 @@ body:
       - TimeoutException
       - UnauthorizedAccessException
       - WarningException
-    default: 1
+    default: 0
   validations:
     required: true
-- type: textarea
-  attributes:
-    label: What have you tried?
-    description: Tell us what you have already tried to avoid the bug
 - type: checkboxes
   attributes:
     label: Operating System
     description: Select the operating systems you have encountered this bug on
     options:
-      - label: 💩 macOS
       - label: ♥️ Windows
-      - label: 🤖 Linux
 - type: dropdown
   attributes:
     label: Phone model
     options:
       - Lumia 930
-      - Lumia 929 (Icon)
+      - Lumia 929 Icon
       - Lumia 1520
       - Lumia 1520 AT & T
       - Lumia 830 Global
@@ -62,11 +69,3 @@ body:
     default: 6
   validations:
     required: true
-- type: checkboxes
-  attributes:
-    label: Check the following and then submit your issue 🔥
-    options:
-      - label: I have tried running the program in compatibility mode
-        required: true
-      - label: I checked the logs for possible reasons that caused the bug
-        required: true
