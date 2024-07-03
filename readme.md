@@ -1,6 +1,6 @@
 ## windowsARM toolkit
 
-windowsARM contains the following files fully rewritten into C# by myself 🖤
+windowsARM contains the following files fully rewritten as C# class by myself 🖤
 
 | File | Corresponding C# class |
 | --- | --- |
