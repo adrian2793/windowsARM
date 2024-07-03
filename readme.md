@@ -10,7 +10,7 @@ windowsARM contains the following files fully rewritten as C# class by myself ðŸ
 > [!TIP]
 > Leave a star and check out the wiki
 
-Progress `15 / 100`
+Progress `30 / 100`
 
 ### Features
 
