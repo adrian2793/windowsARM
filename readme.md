@@ -14,25 +14,25 @@ Progress `30 / 100`
 
 ### Supported Features
 
-`[x]` Install Windows 10 Desktop on your phone
+- [x] Install Windows 10 Desktop on your phone
 
 ### Upcoming Features
 
-`[ ]` Flash `.img` `.ffu` and `.wim` files
+- [ ] Flash `.img` `.ffu` and `.wim` files
 
-  - `[x]` Single boot
+  - [x] Single boot
     
-  - `[x]` Dual boot
+  - [x] Dual boot
     
-  - `[ ]` Kernel debug
+  - [x] Kernel debug
     
-  - `[ ]` Install Windows 10 Desktop on a SD card
+  - [ ] Install Windows 10 Desktop on a SD card
     
-`[ ]` Unlock the bootloader
+- [ ] Unlock the bootloader
 
-`[ ]` Restore bootloader
+- [ ] Restore bootloader
 
-`[ ]` Enable Root Access
+- [ ] Enable Root Access
 
 `[ ]` Disable Root Access
 
