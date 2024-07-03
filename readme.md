@@ -12,7 +12,7 @@ windowsARM contains the following files fully rewritten as C# class by myself ðŸ
 | File | Corresponding C# class | armType | Author |
 | --- | --- | --- | --- |
 | [Installer](https://github.com/RedGreenBlue09/WFAv7_Installer/blob/master/Installer.cmd) | Lumia | arm32 | @RedGreenBlue09 |
-| [DriverDownloader](https://github.com/RedGreenBlue09/WFAv7_Installer/blob/master/Driver%20Downloader.cmd) | arm32 | LumiaDrivers | @RedGreenBlue09 |
+| [DriverDownloader](https://github.com/RedGreenBlue09/WFAv7_Installer/blob/master/Driver%20Downloader.cmd) | LumiaDrivers | arm32 | @RedGreenBlue09 |
 
 ### Features
 
