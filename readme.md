@@ -34,23 +34,23 @@ Progress `30 / 100`
 
 - [ ] Enable Root Access
 
-`[ ]` Disable Root Access
+- [ ] Disable Root Access
 
-`[ ]` Create a backup of the Windows phone
+- [ ] Create a backup of the Windows phone
 
-`[ ]` Custom platformIO like configuration files
+- [ ] Custom platformIO like configuration files
 
-`[ ]` Registry editor for PC to edit Windows phone registry keys
+- [ ] Registry editor for PC to edit Windows phone registry keys
 
-`[ ]` Includes Chromium as app for Windows 10 Mobile
+- [ ] Includes Chromium as app for Windows 10 Mobile
 
-  - `[ ]` arm32
+  - [ ] arm32
 
-  - `[ ]` arm64
+  - [ ] arm64
     
-`[ ]` Includes a working Unigram mobile like Telegram client for Windows 10 Mobile
+- [ ] Includes a working Unigram mobile like Telegram client for Windows 10 Mobile
 
-  - `[ ]` arm32
+  - [ ] arm32
     
 `[ ]` Remote desktop app for Windows 10 Mobile
 
