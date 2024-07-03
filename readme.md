@@ -52,15 +52,15 @@ Progress `30 / 100`
 
   - [ ] arm32
     
-`[ ]` Remote desktop app for Windows 10 Mobile
+- [ ] Remote desktop app for Windows 10 Mobile
 
-  - `[ ]` arm32
+  - [ ] arm32
     
-`[ ]` DynamicDNS tool for Windows 10 Mobile
+- [ ] DynamicDNS tool for Windows 10 Mobile
 
-  - `[ ]` arm32
+  - [ ] arm32
     
-`[ ]` Server side files
+- [x] Server side files
 
 ### Libraries
 
