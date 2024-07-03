@@ -9,8 +9,6 @@ Progress `30 / 100`
 
 windowsARM contains the following files fully rewritten as C# class by myself 🖤
 
-@RedGreenBlue09
-
 | File | Corresponding C# class | armType | Author |
 | --- | --- | --- | --- |
 | [Installer](https://github.com/RedGreenBlue09/WFAv7_Installer/blob/master/Installer.cmd) | Lumia | arm32 | [@RedGreenBlue09](github.com/RedGreenBlue09) |
