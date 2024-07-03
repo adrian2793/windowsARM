@@ -3,7 +3,7 @@
 | File | Corresponding C# class |
 | --- | --- |
 | [Installer.cmd](https://github.com/RedGreenBlue09/WFAv7_Installer/blob/master/Installer.cmd) | Lumia |
-| [DriverDownloader.cmd](https://github.com/RedGreenBlue09/WFAv7_Installer/blob/master/Driver%20Downloader.cmd)
+| [DriverDownloader.cmd](https://github.com/RedGreenBlue09/WFAv7_Installer/blob/master/Driver%20Downloader.cmd) | LumiaDrivers |
 
 > [!TIP]
 > Leave a star and check out the wiki
