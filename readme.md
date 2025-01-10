@@ -6,16 +6,11 @@
 > [!TIP]
 > Leave a star and check out the wiki
 
-Progress `30 / 100`
+Progress `100 / 100`
 
-### Files rewritten as C# class
+### windowsARM as C# class
 
 windowsARM contains the following files fully rewritten as C# class by myself 🖤
-
-| File | Corresponding C# class | armType | Author |
-| --- | --- | --- | --- |
-| [Installer](https://github.com/RedGreenBlue09/WFAv7_Installer/blob/master/Installer.cmd) | Lumia | arm32 | [@RedGreenBlue09](github.com/RedGreenBlue09) |
-| [DriverDownloader](https://github.com/RedGreenBlue09/WFAv7_Installer/blob/master/Driver%20Downloader.cmd) | LumiaDrivers | arm32 | [@RedGreenBlue09](github.com/RedGreenBlue09) |
 
 ### Features
 
