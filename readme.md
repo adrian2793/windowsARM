@@ -19,7 +19,7 @@ windowsARM contains the following files fully rewritten as C# class by myself ðŸ
 
 ### Features
 
-- [ ] Flash `.img` `.ffu` and `.wim` files
+- [x] Flash `.img` `.ffu` and `.wim` files
 
   - [x] Single boot
     
