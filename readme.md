@@ -3,6 +3,13 @@
 > [!CAUTION]
 > Not actively maintained
 
+(Installer.cs -> Class to use for installing windowsARM)
+(Driver.cs -> Runs all the additional exe files needed)
+
+**[WoA.cs](/kernel/WoA.cs) -> Install Windows simple just like drivers**
+
+(Do not use the other class preferably)
+
 > [!TIP]
 > Leave a star and check out the wiki
 
